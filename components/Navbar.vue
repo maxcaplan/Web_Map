@@ -1,7 +1,9 @@
 <template>
   <nav class="navbar navbar-dark bg-primary">
     <div class="container-fluid">
-      <a class="navbar-brand h1 m-0" href="#">Web_Map</a>
+      <nuxt-link to="/" class="navbar-brand font-monospace font-weight-bold m-0"
+        ><i class="fas fa-layer-group"></i> Web_Map
+      </nuxt-link>
     </div>
   </nav>
 </template>
