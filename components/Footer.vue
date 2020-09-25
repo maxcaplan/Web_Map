@@ -2,7 +2,10 @@
   <div id="footer" class="w-100 bg-dark">
     <div class="container py-3">
       <p class="m-0 text-light text-center">
-        Made With <i class="fas fa-heart"></i> By:
+        <span class="d-none d-sm-inline"
+          >Made With <i class="fas fa-heart"></i
+        ></span>
+        By:
         <a
           class="text-light"
           target="_blank"
